@@ -1,0 +1,608 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - link "Skip to content" [ref=e6] [cursor=pointer]:
+      - /url: "#content"
+    - text: 
+    - tree:
+      - listitem [ref=e7]:
+        - link "Python" [ref=e8] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e9]:
+        - link "PSF" [ref=e10] [cursor=pointer]:
+          - /url: https://www.python.org/psf/
+      - listitem [ref=e11]:
+        - link "Docs" [ref=e12] [cursor=pointer]:
+          - /url: https://docs.python.org
+      - listitem [ref=e13]:
+        - link "PyPI" [ref=e14] [cursor=pointer]:
+          - /url: https://pypi.org/
+      - listitem [ref=e15]:
+        - link "Jobs" [ref=e16] [cursor=pointer]:
+          - /url: /jobs/
+      - listitem [ref=e17]:
+        - link "Community" [ref=e18] [cursor=pointer]:
+          - /url: /community/
+    - text: 
+  - banner [ref=e19]:
+    - generic [ref=e20]:
+      - link [ref=e22] [cursor=pointer]:
+        - /url: /
+        - img "python™" [ref=e23]
+      - generic [ref=e24]:
+        - link "Donate" [ref=e25] [cursor=pointer]:
+          - /url: https://donate.python.org/
+        - generic [ref=e26]:
+          - group "Search Python.org" [ref=e28]:
+            - generic [aria-hidden] [ref=e29]: 
+            - generic [ref=e30]: Search This Site
+            - searchbox "Search This Site" [ref=e31]
+            - button "GO" [ref=e32] [cursor=pointer]
+          - list "Social Media Navigation" [ref=e34]:
+            - listitem [ref=e35]:
+              - link "Socialize" [ref=e36] [cursor=pointer]:
+                - /url: "#"
+              - text:    
+      - navigation [ref=e37]:
+        - menubar "Main Navigation" [ref=e38]:
+          - listitem [ref=e39]:
+            - link "About" [ref=e40] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e41]:
+            - link "Downloads" [ref=e42] [cursor=pointer]:
+              - /url: /downloads/
+          - listitem [ref=e43]:
+            - link "Documentation" [ref=e44] [cursor=pointer]:
+              - /url: /doc/
+          - listitem [ref=e45]:
+            - link "Community" [ref=e46] [cursor=pointer]:
+              - /url: /community/
+          - listitem [ref=e47]:
+            - link "Success Stories" [ref=e48] [cursor=pointer]:
+              - /url: /success-stories/
+            - menu [aria-hidden] [ref=e49]:
+              - menuitem [ref=e50]:
+                - link [ref=e51] [cursor=pointer]:
+                  - /url: /success-stories/category/arts/
+                  - text: Arts
+              - menuitem [ref=e52]:
+                - link [ref=e53] [cursor=pointer]:
+                  - /url: /success-stories/category/business/
+                  - text: Business
+              - menuitem [ref=e54]:
+                - link [ref=e55] [cursor=pointer]:
+                  - /url: /success-stories/category/education/
+                  - text: Education
+              - menuitem [ref=e56]:
+                - link [ref=e57] [cursor=pointer]:
+                  - /url: /success-stories/category/engineering/
+                  - text: Engineering
+              - menuitem [ref=e58]:
+                - link [ref=e59] [cursor=pointer]:
+                  - /url: /success-stories/category/government/
+                  - text: Government
+              - menuitem [ref=e60]:
+                - link [ref=e61] [cursor=pointer]:
+                  - /url: /success-stories/category/scientific/
+                  - text: Scientific
+              - menuitem [ref=e62]:
+                - link [ref=e63] [cursor=pointer]:
+                  - /url: /success-stories/category/software-development/
+                  - text: Software Development
+          - listitem [ref=e64]:
+            - link "News" [ref=e65] [cursor=pointer]:
+              - /url: /blogs/
+          - listitem [ref=e66]:
+            - link "Events" [ref=e67] [cursor=pointer]:
+              - /url: /events/
+      - generic [ref=e69]:
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link ">_ Launch Interactive Shell" [ref=e72] [cursor=pointer]:
+              - /url: /shell/
+              - text: ">_"
+              - generic [ref=e73]: Launch Interactive Shell
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - code [ref=e78]: "# Simple arithmetic >>> 1 / 2 0.5 >>> 2 ** 3 8 >>> 17 / 3 # true division returns a float 5.666666666666667 >>> 17 // 3 # floor division 5"
+            - generic [ref=e79]:
+              - heading "Intuitive Interpretation" [level=1] [ref=e80]
+              - paragraph [ref=e81]:
+                - text: "Calculations are simple with Python, and expression syntax is straightforward: the operators"
+                - code [ref=e82]: +
+                - text: ","
+                - code [ref=e83]: "-"
+                - text: ","
+                - code [ref=e84]: "*"
+                - text: and
+                - code [ref=e85]: /
+                - text: work as expected; parentheses
+                - code [ref=e86]: ()
+                - text: can be used for grouping.
+                - link "More about simple math functions in Python 3" [ref=e87] [cursor=pointer]:
+                  - /url: http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+                - text: .
+        - list [ref=e88]:
+          - listitem [ref=e89]:
+            - generic [ref=e90] [cursor=pointer]: "1"
+          - listitem [ref=e91]:
+            - generic [ref=e92] [cursor=pointer]: "2"
+          - listitem [ref=e93]:
+            - generic [ref=e94] [cursor=pointer]: "3"
+          - listitem [ref=e95]:
+            - generic [ref=e96] [cursor=pointer]: "4"
+          - listitem [ref=e97]:
+            - generic [ref=e98] [cursor=pointer]: "5"
+      - paragraph [ref=e100]:
+        - text: Python is a programming language that lets you work quickly and integrate systems more effectively.
+        - link ">>>Learn More" [ref=e102] [cursor=pointer]:
+          - /url: /doc/
+  - main [ref=e105]:
+    - generic [ref=e106]:
+      - generic [ref=e107]:
+        - heading "Get Started" [level=2] [ref=e108]:
+          - generic [aria-hidden] [ref=e109]: 
+          - text: Get Started
+        - paragraph [ref=e110]: Whether you're new to programming or an experienced developer, it's easy to learn and use Python.
+        - paragraph [ref=e111]:
+          - link "Start with our Beginner’s Guide" [ref=e112] [cursor=pointer]:
+            - /url: /about/gettingstarted/
+      - generic [ref=e113]:
+        - heading "Download" [level=2] [ref=e114]:
+          - generic [ref=e115]: 
+          - text: Download
+        - paragraph [ref=e116]: Python source code and installers are available for download for all versions!
+        - paragraph [ref=e117]:
+          - text: "Latest:"
+          - link "Python 3.14.7" [ref=e118] [cursor=pointer]:
+            - /url: /downloads/release/python-3147/
+      - generic [ref=e119]:
+        - heading "Docs" [level=2] [ref=e120]:
+          - generic [aria-hidden] [ref=e121]: 
+          - text: Docs
+        - paragraph [ref=e122]: Documentation for Python's standard library, along with tutorials and guides, are available online.
+        - paragraph [ref=e123]:
+          - link "docs.python.org" [ref=e124] [cursor=pointer]:
+            - /url: https://docs.python.org
+      - generic [ref=e125]:
+        - heading "Jobs" [level=2] [ref=e126]:
+          - generic [aria-hidden] [ref=e127]: 
+          - text: Jobs
+        - paragraph [ref=e128]:
+          - text: Looking for work or have a Python related position that you're trying to hire for? Our
+          - strong [ref=e129]: relaunched community-run job board
+          - text: is the place to go.
+        - paragraph [ref=e130]:
+          - link "jobs.python.org" [ref=e131] [cursor=pointer]:
+            - /url: //jobs.python.org
+    - generic [ref=e132]:
+      - generic [ref=e134]:
+        - heading "Latest News" [level=2] [ref=e135]:
+          - generic [aria-hidden] [ref=e136]: 
+          - text: Latest News
+        - paragraph [ref=e137]:
+          - link ">>>More news" [ref=e138] [cursor=pointer]:
+            - /url: /blogs/
+        - list [ref=e139]:
+          - listitem [ref=e140]:
+            - time [ref=e141]: 2026-09-26
+            - link "The Python documentation is now available in German" [ref=e142] [cursor=pointer]:
+              - /url: https://blog.python.org/2026/09/python-docs-in-german/
+          - listitem [ref=e143]:
+            - time [ref=e144]: 2026-09-23
+            - link "The Python documentation is now available in Persian" [ref=e145] [cursor=pointer]:
+              - /url: https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/
+          - listitem [ref=e146]:
+            - time [ref=e147]: 2026-09-23
+            - link "The Python documentation is now available in Persian" [ref=e148] [cursor=pointer]:
+              - /url: https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/
+          - listitem [ref=e149]:
+            - time [ref=e150]: 2026-09-17
+            - link "Announcing the 2026 PSF Board Election Results!" [ref=e151] [cursor=pointer]:
+              - /url: https://pyfound.blogspot.com/2026/09/announcing-2026-psf-board-election.html
+          - listitem [ref=e152]:
+            - time [ref=e153]: 2026-09-17
+            - link "Announcing the 2026 Python Packaging Council Election Results!" [ref=e154] [cursor=pointer]:
+              - /url: https://pyfound.blogspot.com/2026/09/announcing-2026-python-packaging.html
+      - generic [ref=e156]:
+        - heading "Upcoming Events" [level=2] [ref=e157]:
+          - generic [aria-hidden] [ref=e158]: 
+          - text: Upcoming Events
+        - paragraph [ref=e159]:
+          - link ">>>More" [ref=e160] [cursor=pointer]:
+            - /url: /events/calendars/
+        - list [ref=e161]:
+          - listitem [ref=e162]:
+            - time [ref=e163]: 2026-10-03
+            - link "PyBay 2026" [ref=e164] [cursor=pointer]:
+              - /url: /events/python-events/2136/
+          - listitem [ref=e165]:
+            - time [ref=e166]: 2026-10-07
+            - link "PyCon Africa 2026" [ref=e167] [cursor=pointer]:
+              - /url: /events/python-events/2187/
+          - listitem [ref=e168]:
+            - time [ref=e169]: 2026-10-07
+            - link "Python Meeting Düsseldorf" [ref=e170] [cursor=pointer]:
+              - /url: /events/python-user-group/2215/
+          - listitem [ref=e171]:
+            - time [ref=e172]: 2026-10-08
+            - link "PyEducation – IPAF – Alda de Fátima" [ref=e173] [cursor=pointer]:
+              - /url: /events/python-user-group/2210/
+          - listitem [ref=e174]:
+            - time [ref=e175]: 2026-10-08
+            - link "PyCon Estonia 2026" [ref=e176] [cursor=pointer]:
+              - /url: /events/python-events/2134/
+    - generic [ref=e177]:
+      - generic [ref=e179]:
+        - heading "Success Stories" [level=2] [ref=e180]:
+          - generic [aria-hidden] [ref=e181]: 
+          - text: Success Stories
+        - paragraph [ref=e182]:
+          - link ">>>More" [ref=e183] [cursor=pointer]:
+            - /url: /success-stories/
+        - generic [ref=e184]:
+          - blockquote [ref=e185]:
+            - link "To simplify the adoption of FHE, which involves a complex and resource-intensive technological stack, Zama developed tools that streamline the integration of FHE into applications. Since Python is the de facto standard for building machine learning (ML) applications, it was an obvious choice to create an open-source FHE library in Python." [ref=e186] [cursor=pointer]:
+              - /url: /success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/
+          - table [ref=e187]:
+            - rowgroup [ref=e188]:
+              - row [ref=e189]:
+                - cell [ref=e190]:
+                  - paragraph [ref=e191]:
+                    - 'link "Zama Concrete ML: Simplifying Homomorphic Encryption for Python Machine Learning" [ref=e192] [cursor=pointer]':
+                      - /url: /success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/
+                    - emphasis [ref=e193]: by Andrei Stoian and Benoit Chevallier-Mames
+      - generic [ref=e195]:
+        - heading "Use Python for…" [level=2] [ref=e196]:
+          - generic [aria-hidden] [ref=e197]: 
+          - text: Use Python for…
+        - paragraph [ref=e198]:
+          - link ">>>More" [ref=e199] [cursor=pointer]:
+            - /url: /about/apps
+        - list [ref=e200]:
+          - listitem [ref=e201]:
+            - text: "Web Development:"
+            - generic [ref=e202]:
+              - link "Django" [ref=e203] [cursor=pointer]:
+                - /url: https://www.djangoproject.com/
+              - text: ","
+              - link "Pyramid" [ref=e204] [cursor=pointer]:
+                - /url: https://trypyramid.com/
+              - text: ","
+              - link "Bottle" [ref=e205] [cursor=pointer]:
+                - /url: https://bottlepy.org
+              - text: ","
+              - link "Tornado" [ref=e206] [cursor=pointer]:
+                - /url: https://www.tornadoweb.org/
+              - text: ","
+              - link "Flask" [ref=e207] [cursor=pointer]:
+                - /url: https://flask.palletsprojects.com/
+              - text: ","
+              - link "Litestar" [ref=e208] [cursor=pointer]:
+                - /url: https://litestar.dev/
+              - text: ","
+              - link "FastAPI" [ref=e209] [cursor=pointer]:
+                - /url: https://fastapi.tiangolo.com/
+          - listitem [ref=e210]:
+            - text: "GUI Development:"
+            - generic [ref=e211]:
+              - link "tkInter" [ref=e212] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Tkinter
+              - text: ","
+              - link "PyGObject" [ref=e213] [cursor=pointer]:
+                - /url: https://pygobject.gnome.org/
+              - text: ","
+              - link "PyQt" [ref=e214] [cursor=pointer]:
+                - /url: https://riverbankcomputing.com/software/pyqt/intro
+              - text: ","
+              - link "PySide" [ref=e215] [cursor=pointer]:
+                - /url: https://wiki.qt.io/Qt_for_Python
+              - text: ","
+              - link "Kivy" [ref=e216] [cursor=pointer]:
+                - /url: https://kivy.org/
+              - text: ","
+              - link "wxPython" [ref=e217] [cursor=pointer]:
+                - /url: https://www.wxpython.org/
+              - text: ","
+              - link "DearPyGui" [ref=e218] [cursor=pointer]:
+                - /url: https://dearpygui.readthedocs.io/en/latest/
+          - listitem [ref=e219]:
+            - text: "AI and Machine Learning:"
+            - generic [ref=e220]:
+              - link "PyTorch" [ref=e221] [cursor=pointer]:
+                - /url: https://pytorch.org/
+              - text: ","
+              - link "TensorFlow" [ref=e222] [cursor=pointer]:
+                - /url: https://www.tensorflow.org/
+              - text: ","
+              - link "scikit-learn" [ref=e223] [cursor=pointer]:
+                - /url: https://scikit-learn.org/
+              - text: ","
+              - link "Transformers" [ref=e224] [cursor=pointer]:
+                - /url: https://huggingface.co/docs/transformers/
+              - text: ","
+              - link "Anthropic" [ref=e225] [cursor=pointer]:
+                - /url: https://docs.anthropic.com/
+              - text: ","
+              - link "LangChain" [ref=e226] [cursor=pointer]:
+                - /url: https://langchain.com/
+          - listitem [ref=e227]:
+            - text: "Scientific and Numeric:"
+            - generic [ref=e228]:
+              - link "SciPy" [ref=e229] [cursor=pointer]:
+                - /url: https://scipy.org/
+              - text: ","
+              - link "Pandas" [ref=e230] [cursor=pointer]:
+                - /url: https://pandas.pydata.org/
+              - text: ","
+              - link "IPython" [ref=e231] [cursor=pointer]:
+                - /url: https://ipython.org/
+          - listitem [ref=e232]:
+            - text: "Software Development:"
+            - generic [ref=e233]:
+              - link "Buildbot" [ref=e234] [cursor=pointer]:
+                - /url: https://buildbot.net/
+              - text: ","
+              - link "Trac" [ref=e235] [cursor=pointer]:
+                - /url: https://trac.edgewall.org/
+              - text: ","
+              - link "Roundup" [ref=e236] [cursor=pointer]:
+                - /url: https://www.roundup-tracker.org/
+          - listitem [ref=e237]:
+            - text: "System Administration:"
+            - generic [ref=e238]:
+              - link "Ansible" [ref=e239] [cursor=pointer]:
+                - /url: https://docs.ansible.com/
+              - text: ","
+              - link "Salt" [ref=e240] [cursor=pointer]:
+                - /url: https://saltproject.io/
+              - text: ","
+              - link "OpenStack" [ref=e241] [cursor=pointer]:
+                - /url: https://www.openstack.org/
+              - text: ","
+              - link "xonsh" [ref=e242] [cursor=pointer]:
+                - /url: https://xon.sh/
+    - generic [ref=e243]:
+      - heading [level=2] [ref=e245]:
+        - text: ">>>"
+        - link "Python Software Foundation" [ref=e246] [cursor=pointer]:
+          - /url: /psf/
+      - paragraph [ref=e247]:
+        - text: The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.
+        - link ">>>Learn more" [ref=e248] [cursor=pointer]:
+          - /url: /psf/
+      - paragraph [ref=e249]:
+        - link "Become a Member" [ref=e250] [cursor=pointer]:
+          - /url: /psf/membership/
+        - link "Donate to the PSF" [ref=e251] [cursor=pointer]:
+          - /url: /psf/donations/
+  - contentinfo [ref=e252]:
+    - generic [ref=e254]:
+      - text: 
+      - tree [ref=e255]:
+        - listitem [ref=e256]:
+          - link "About" [ref=e257] [cursor=pointer]:
+            - /url: /about/
+          - list [ref=e258]:
+            - treeitem [ref=e259]:
+              - link "Applications" [ref=e260] [cursor=pointer]:
+                - /url: /about/apps/
+            - treeitem [ref=e261]:
+              - link "Quotes" [ref=e262] [cursor=pointer]:
+                - /url: /about/quotes/
+            - treeitem [ref=e263]:
+              - link "Getting Started" [ref=e264] [cursor=pointer]:
+                - /url: /about/gettingstarted/
+            - treeitem [ref=e265]:
+              - link "Help" [ref=e266] [cursor=pointer]:
+                - /url: /about/help/
+        - listitem [ref=e267]:
+          - link "Downloads" [ref=e268] [cursor=pointer]:
+            - /url: /downloads/
+          - list [ref=e269]:
+            - treeitem [ref=e270]:
+              - link "All releases" [ref=e271] [cursor=pointer]:
+                - /url: /downloads/
+            - treeitem [ref=e272]:
+              - link "Source code" [ref=e273] [cursor=pointer]:
+                - /url: /downloads/source/
+            - treeitem [ref=e274]:
+              - link "Windows" [ref=e275] [cursor=pointer]:
+                - /url: /downloads/windows/
+            - treeitem [ref=e276]:
+              - link "macOS" [ref=e277] [cursor=pointer]:
+                - /url: /downloads/macos/
+            - treeitem [ref=e278]:
+              - link "Android" [ref=e279] [cursor=pointer]:
+                - /url: /downloads/android/
+            - treeitem [ref=e280]:
+              - link "iOS" [ref=e281] [cursor=pointer]:
+                - /url: /downloads/ios/
+            - treeitem [ref=e282]:
+              - link "Other Platforms" [ref=e283] [cursor=pointer]:
+                - /url: /download/other/
+            - treeitem [ref=e284]:
+              - link "License" [ref=e285] [cursor=pointer]:
+                - /url: https://docs.python.org/3/license.html
+            - treeitem [ref=e286]:
+              - link "Alternative Implementations" [ref=e287] [cursor=pointer]:
+                - /url: /download/alternatives
+        - listitem [ref=e288]:
+          - link "Documentation" [ref=e289] [cursor=pointer]:
+            - /url: /doc/
+          - list [ref=e290]:
+            - treeitem [ref=e291]:
+              - link "Docs" [ref=e292] [cursor=pointer]:
+                - /url: /doc/
+            - treeitem [ref=e293]:
+              - link "Audio/Visual Talks" [ref=e294] [cursor=pointer]:
+                - /url: /doc/av
+            - treeitem [ref=e295]:
+              - link "Beginner's Guide" [ref=e296] [cursor=pointer]:
+                - /url: https://wiki.python.org/moin/BeginnersGuide
+            - treeitem [ref=e297]:
+              - link "FAQ" [ref=e298] [cursor=pointer]:
+                - /url: https://docs.python.org/3/faq/
+            - treeitem [ref=e299]:
+              - link "Non-English Docs" [ref=e300] [cursor=pointer]:
+                - /url: https://translations.python.org/
+            - treeitem [ref=e301]:
+              - link "PEP Index" [ref=e302] [cursor=pointer]:
+                - /url: https://peps.python.org
+            - treeitem [ref=e303]:
+              - link "Python Books" [ref=e304] [cursor=pointer]:
+                - /url: https://wiki.python.org/moin/PythonBooks
+            - treeitem [ref=e305]:
+              - link "Python Essays" [ref=e306] [cursor=pointer]:
+                - /url: /doc/essays/
+        - listitem [ref=e307]:
+          - link "Community" [ref=e308] [cursor=pointer]:
+            - /url: /community/
+          - list [ref=e309]:
+            - treeitem [ref=e310]:
+              - link "Diversity" [ref=e311] [cursor=pointer]:
+                - /url: /community/diversity/
+            - treeitem [ref=e312]:
+              - link "Mailing Lists" [ref=e313] [cursor=pointer]:
+                - /url: /community/lists/
+            - treeitem [ref=e314]:
+              - link "IRC" [ref=e315] [cursor=pointer]:
+                - /url: /community/irc/
+            - treeitem [ref=e316]:
+              - link "Forums" [ref=e317] [cursor=pointer]:
+                - /url: /community/forums/
+            - treeitem [ref=e318]:
+              - link "PSF Annual Impact Report" [ref=e319] [cursor=pointer]:
+                - /url: /psf/annual-report/2024/
+            - treeitem [ref=e320]:
+              - link "Python Conferences" [ref=e321] [cursor=pointer]:
+                - /url: /community/workshops/
+            - treeitem [ref=e322]:
+              - link "Special Interest Groups" [ref=e323] [cursor=pointer]:
+                - /url: /community/sigs/
+            - treeitem [ref=e324]:
+              - link "Python Logo" [ref=e325] [cursor=pointer]:
+                - /url: /community/logos/
+            - treeitem [ref=e326]:
+              - link "Python Wiki" [ref=e327] [cursor=pointer]:
+                - /url: https://wiki.python.org/moin/
+            - treeitem [ref=e328]:
+              - link "Code of Conduct" [ref=e329] [cursor=pointer]:
+                - /url: /psf/conduct/
+            - treeitem [ref=e330]:
+              - link "Community Awards" [ref=e331] [cursor=pointer]:
+                - /url: /community/awards
+            - treeitem [ref=e332]:
+              - link "Get Involved" [ref=e333] [cursor=pointer]:
+                - /url: /psf/get-involved/
+            - treeitem [ref=e334]:
+              - link "Shared Stories" [ref=e335] [cursor=pointer]:
+                - /url: /psf/community-stories/
+        - listitem [ref=e336]:
+          - link "Success Stories" [ref=e337] [cursor=pointer]:
+            - /url: /success-stories/
+          - list [ref=e338]:
+            - treeitem [ref=e339]:
+              - link "Arts" [ref=e340] [cursor=pointer]:
+                - /url: /success-stories/category/arts/
+            - treeitem [ref=e341]:
+              - link "Business" [ref=e342] [cursor=pointer]:
+                - /url: /success-stories/category/business/
+            - treeitem [ref=e343]:
+              - link "Education" [ref=e344] [cursor=pointer]:
+                - /url: /success-stories/category/education/
+            - treeitem [ref=e345]:
+              - link "Engineering" [ref=e346] [cursor=pointer]:
+                - /url: /success-stories/category/engineering/
+            - treeitem [ref=e347]:
+              - link "Government" [ref=e348] [cursor=pointer]:
+                - /url: /success-stories/category/government/
+            - treeitem [ref=e349]:
+              - link "Scientific" [ref=e350] [cursor=pointer]:
+                - /url: /success-stories/category/scientific/
+            - treeitem [ref=e351]:
+              - link "Software Development" [ref=e352] [cursor=pointer]:
+                - /url: /success-stories/category/software-development/
+        - listitem [ref=e353]:
+          - link "News" [ref=e354] [cursor=pointer]:
+            - /url: /blogs/
+          - list [ref=e355]:
+            - treeitem [ref=e356]:
+              - link "Python News" [ref=e357] [cursor=pointer]:
+                - /url: /blogs/
+            - treeitem [ref=e358]:
+              - link "PSF Newsletter" [ref=e359] [cursor=pointer]:
+                - /url: /psf/newsletter/
+            - treeitem [ref=e360]:
+              - link "PSF News" [ref=e361] [cursor=pointer]:
+                - /url: https://pyfound.blogspot.com
+            - treeitem [ref=e362]:
+              - link "PyCon US News" [ref=e363] [cursor=pointer]:
+                - /url: https://pycon.blogspot.com/
+            - treeitem [ref=e364]:
+              - link "Python Insider" [ref=e365] [cursor=pointer]:
+                - /url: https://blog.python.org
+            - treeitem [ref=e366]:
+              - link "News from the Community" [ref=e367] [cursor=pointer]:
+                - /url: https://planetpython.org/
+        - listitem [ref=e368]:
+          - link "Events" [ref=e369] [cursor=pointer]:
+            - /url: /events/
+          - list [ref=e370]:
+            - treeitem [ref=e371]:
+              - link "Python Events" [ref=e372] [cursor=pointer]:
+                - /url: /events/python-events/
+            - treeitem [ref=e373]:
+              - link "User Group Events" [ref=e374] [cursor=pointer]:
+                - /url: /events/python-user-group/
+            - treeitem [ref=e375]:
+              - link "Python Events Archive" [ref=e376] [cursor=pointer]:
+                - /url: /events/python-events/past/
+            - treeitem [ref=e377]:
+              - link "User Group Events Archive" [ref=e378] [cursor=pointer]:
+                - /url: /events/python-user-group/past/
+            - treeitem [ref=e379]:
+              - link "Submit an Event" [ref=e380] [cursor=pointer]:
+                - /url: https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+        - listitem [ref=e381]:
+          - link "Contributing" [ref=e382] [cursor=pointer]:
+            - /url: /dev/
+          - list [ref=e383]:
+            - treeitem [ref=e384]:
+              - link "Developer's Guide" [ref=e385] [cursor=pointer]:
+                - /url: https://devguide.python.org/
+            - treeitem [ref=e386]:
+              - link "Issue Tracker" [ref=e387] [cursor=pointer]:
+                - /url: https://github.com/python/cpython/issues
+            - treeitem [ref=e388]:
+              - link "python-dev list" [ref=e389] [cursor=pointer]:
+                - /url: https://mail.python.org/mailman/listinfo/python-dev
+            - treeitem [ref=e390]:
+              - link "Core Mentorship" [ref=e391] [cursor=pointer]:
+                - /url: /dev/core-mentorship/
+            - treeitem [ref=e392]:
+              - link "Report a Security Issue" [ref=e393] [cursor=pointer]:
+                - /url: /dev/security/
+      - text: 
+    - generic [ref=e395]:
+      - tree [ref=e396]:
+        - listitem [ref=e397]:
+          - link "Help & General Contact" [ref=e398] [cursor=pointer]:
+            - /url: /about/help/
+        - listitem [ref=e399]:
+          - link "Diversity Initiatives" [ref=e400] [cursor=pointer]:
+            - /url: /community/diversity/
+        - listitem [ref=e401]:
+          - link "Submit Website Bug" [ref=e402] [cursor=pointer]:
+            - /url: https://github.com/python/pythondotorg/issues
+        - listitem [ref=e403]:
+          - link "Status" [ref=e404] [cursor=pointer]:
+            - /url: https://status.python.org/
+      - paragraph [ref=e407]:
+        - generic [ref=e408]:
+          - text: Copyright ©2001-2026.
+          - link "Python Software Foundation" [ref=e410] [cursor=pointer]:
+            - /url: /psf-landing/
+          - link "Legal Statements" [ref=e412] [cursor=pointer]:
+            - /url: /about/legal/
+          - link "Privacy Notice" [ref=e414] [cursor=pointer]:
+            - /url: https://policies.python.org/python.org/Privacy-Notice/

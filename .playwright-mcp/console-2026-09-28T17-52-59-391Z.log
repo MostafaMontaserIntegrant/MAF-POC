@@ -1,0 +1,4 @@
+[     666ms] Error: No ad placements found.
+    at w (https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js:1:11867)
+    at https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js:1:12977
+[     657ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.python.org/:0

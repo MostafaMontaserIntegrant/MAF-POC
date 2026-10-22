@@ -1,0 +1,177 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link "Skip to main content" [ref=f1e4] [cursor=pointer]:
+        - /url: "#main"
+      - link "Skip to Ask Learn chat experience" [ref=f1e5] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]:
+          - generic [ref=f1e9]:
+            - heading "Microsoft Ignite" [level=2] [ref=f1e10]
+            - paragraph [ref=f1e11]: November 17–20, 2026
+          - link "Register now" [ref=f1e12] [cursor=pointer]:
+            - /url: https://ignite.microsoft.com/home?wt.mc_ID=msignite26_gmee_corp_np_oo_MSLearnRegLaunch
+            - generic [ref=f1e15]: Ｔ
+        - button "Dismiss alert" [ref=f1e16] [cursor=pointer]
+      - generic [ref=f1e18]:
+        - text: Ｏ Ｐ 
+        - generic [ref=f1e19]:
+          - link "Microsoft" [ref=f1e20] [cursor=pointer]:
+            - /url: https://www.microsoft.com
+          - link "Learn" [ref=f1e27] [cursor=pointer]:
+            - /url: /en-us/
+          - generic [ref=f1e29]:
+            - navigation "Global" [ref=f1e31]:
+              - text: Ｒ
+              - list [ref=f1e32]:
+                - listitem [ref=f1e33]:
+                  - button "Documentation" [ref=f1e35] [cursor=pointer]:
+                    - generic [ref=f1e38]: Ｓ
+                - listitem [ref=f1e39]:
+                  - button "Training & Labs" [ref=f1e41] [cursor=pointer]:
+                    - generic [ref=f1e44]: Ｓ
+                - listitem [ref=f1e45]:
+                  - button "Q&A" [ref=f1e47] [cursor=pointer]:
+                    - generic [ref=f1e50]: Ｓ
+                - listitem [ref=f1e51]:
+                  - button "Topics" [ref=f1e53] [cursor=pointer]:
+                    - generic [ref=f1e56]: Ｓ
+              - text: Ｔ
+            - generic [ref=f1e57]:
+              - text: Ｐ
+              - button "Open search" [ref=f1e58] [cursor=pointer]:
+                - generic [ref=f1e60]: 
+          - link "Sign in" [ref=f1e61] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e63]:
+          - link "Agent Framework" [ref=f1e64] [cursor=pointer]:
+            - /url: /en-us/agent-framework/
+          - navigation "Site" [ref=f1e66]:
+            - list [ref=f1e67]:
+              - listitem [ref=f1e68]:
+                - link "Overview" [ref=f1e69] [cursor=pointer]:
+                  - /url: /en-us/agent-framework/overview/agent-framework-overview/
+              - listitem [ref=f1e71]:
+                - link "Quick Start" [ref=f1e72] [cursor=pointer]:
+                  - /url: /en-us/agent-framework/tutorials/agents/quick-start/
+              - listitem [ref=f1e74]:
+                - button "Tutorials" [ref=f1e75] [cursor=pointer]:
+                  - generic [ref=f1e78]: Ｓ
+              - listitem [ref=f1e79]:
+                - button "User guides" [ref=f1e80] [cursor=pointer]:
+                  - generic [ref=f1e83]: Ｓ
+              - text: Ｓ Ｔ Ｔ
+  - navigation "Primary" [ref=f1e87]:
+    - button "Collapse" [expanded] [ref=f1e89] [cursor=pointer]:
+      - generic [aria-hidden] [ref=f1e90]:
+        - generic [ref=f1e91]: ﾝ
+        - text: ﾜ
+  - main [ref=f1e92]:
+    - generic: Ｏ ，
+    - generic [ref=f1e93]:
+      - generic [ref=f1e94]:
+        - generic [ref=f1e96]:
+          - text: 
+          - group "Breadcrumbs"
+          - generic [ref=f1e97]:
+            - text: 󿄐 󿄐
+            - button "Ask Learn" [ref=f1e98] [cursor=pointer]:
+              - generic [ref=f1e100]: 󿄐
+            - group [ref=f1e102]:
+              - generic "More actions" [ref=f1e103] [cursor=pointer]: 
+        - text: ﾁ
+        - heading "Agent Framework concepts" [level=1] [ref=f1e107]
+        - generic: 
+        - generic [ref=f1e109]:
+          - generic [ref=f1e111]: ﾃ
+          - button "Summarize this article for me" [ref=f1e112] [cursor=pointer]
+        - generic [ref=f1e114]:
+          - paragraph [ref=f1e115]: "Agent Framework is built around a couple of foundational concepts, Agents and building on that: Workflows and Harness Agents."
+          - paragraph [ref=f1e116]: These pages go into the underlying concepts and link you to relevant pages describing certain capabilities. Use them to build the mental model behind the feature-oriented Agent Capabilities and Workflow Capabilities guides.
+          - button "Expand table" [ref=f1e118] [cursor=pointer]:
+            - generic [ref=f1e120]: ﾉ
+          - table "Table 1" [ref=f1e123]:
+            - rowgroup [ref=f1e124]:
+              - row [ref=f1e125]:
+                - columnheader "Concept area" [ref=f1e126]
+                - columnheader "What it explains" [ref=f1e127]
+            - rowgroup [ref=f1e128]:
+              - row [ref=f1e129]:
+                - cell [ref=f1e130]:
+                  - link "Agents" [ref=f1e131] [cursor=pointer]:
+                    - /url: agents/
+                - cell "Agent types, runtime execution, sessions, conversations, middleware, and safety." [ref=f1e132]
+              - row [ref=f1e133]:
+                - cell [ref=f1e134]:
+                  - link "Workflows" [ref=f1e135] [cursor=pointer]:
+                    - /url: workflows/
+                - cell "Workflow APIs, graph primitives, execution, state, and advanced composition." [ref=f1e136]
+              - row [ref=f1e137]:
+                - cell [ref=f1e138]:
+                  - link "Agent Harness" [ref=f1e139] [cursor=pointer]:
+                    - /url: harness
+                - cell "How an opinionated harness assembles agents, providers, middleware, tools, loops, and operational capabilities." [ref=f1e140]
+          - generic [ref=f1e141]:
+            - 'link "Section titled: Next steps" [ref=f1e142] [cursor=pointer]':
+              - /url: "#next-steps"
+              - text: 
+            - heading "Next steps" [level=2] [ref=f1e143]
+          - paragraph [ref=f1e145]:
+            - link "Learn about agents" [ref=f1e146] [cursor=pointer]:
+              - /url: agents/
+        - alert [ref=f1e147]: Reading mode disabled
+        - status [ref=f1e148]
+        - text:   
+      - generic [ref=f1e149]:
+        - separator [ref=f1e150]
+        - list [ref=f1e151]:
+          - listitem [ref=f1e152]:
+            - generic [ref=f1e153]: Last updated on 08/25/2026
+  - complementary "Additional resources" [ref=f1e155]:
+    - generic [ref=f1e159]:
+      - paragraph [ref=f1e160]: Was this page helpful?
+      - generic [ref=f1e161]:
+        - button "This article is helpful" [ref=f1e162] [cursor=pointer]:
+          - generic [ref=f1e164]: 
+        - button "This article is not helpful" [ref=f1e165] [cursor=pointer]:
+          - generic [ref=f1e167]: 
+        - text: 
+  - text: 󿄐 Ｐ
+  - contentinfo [ref=f1e169]:
+    - generic [ref=f1e170]:
+      - link "Content language selector. Currently set to English (United States)." [ref=f1e171] [cursor=pointer]:
+        - /url: /en-us/locale?target=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fagent-framework%2Fconcepts%2F
+        - generic [ref=f1e173]: 
+        - generic [ref=f1e174]: English (United States)
+      - link "Your Privacy Choices" [ref=f1e176] [cursor=pointer]:
+        - /url: https://aka.ms/yourcaliforniaprivacychoices
+      - button "Theme" [ref=f1e185] [cursor=pointer]:
+        - generic [ref=f1e187]: ０
+        - generic [ref=f1e190]: Ｓ
+    - list [ref=f1e191]:
+      - listitem [ref=f1e192]:
+        - link "AI Disclaimer" [ref=f1e193] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/principles-for-ai-generated-content
+      - listitem [ref=f1e194]:
+        - link "Previous Versions" [ref=f1e195] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/previous-versions/
+      - listitem [ref=f1e196]:
+        - link "Blog" [ref=f1e197] [cursor=pointer]:
+          - /url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+      - listitem [ref=f1e198]:
+        - link "Contribute" [ref=f1e199] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/contribute
+      - listitem [ref=f1e200]:
+        - link "Privacy" [ref=f1e201] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?LinkId=521839
+      - listitem [ref=f1e202]:
+        - link "Consumer Health Privacy" [ref=f1e203] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+      - listitem [ref=f1e204]:
+        - link "Terms of Use" [ref=f1e205] [cursor=pointer]:
+          - /url: https://learn.microsoft.com/en-us/legal/termsofuse
+      - listitem [ref=f1e206]:
+        - link "Trademarks" [ref=f1e207] [cursor=pointer]:
+          - /url: https://www.microsoft.com/legal/intellectualproperty/Trademarks/
+      - listitem [ref=f1e208]: © Microsoft 2026
